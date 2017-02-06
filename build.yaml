@@ -1,0 +1,13 @@
+language: python
+name: simple python app
+version: 0.1.0
+
+platform:
+  - target : ubuntu
+    version : 14.04 
+    arch : i386
+
+api: 0.6.0
+
+keywords:
+  - simple
