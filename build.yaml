@@ -9,5 +9,8 @@ platform:
 
 api: 0.6.0
 
+package:
+  - app.py
+
 keywords:
   - simple
